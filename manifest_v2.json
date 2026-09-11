@@ -1,0 +1,75 @@
+{
+  "item": {
+    "id": "com.yan.maimaidx",
+    "restype": "quick_app",
+    "name": "舞萌B50",
+    "description": "可在手环手表上查看的查分器",
+    "preview": [
+      "media/fd11117ec346f124617e9ac2d4731d3d.png",
+      "media/de62ca33cb6e08b032a147c3c8266a80.png",
+      "media/15960b726ed908aad3bec22b49e23874.png"
+    ],
+    "icon": "media/OIP-C.webp",
+    "cover": "media/23895_compressed..png",
+    "author": [
+      {
+        "name": "lu0047",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.yan.maimaidx.debug.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.yan.maimaidx.debug.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.yan.maimaidx.debug.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.yan.maimaidx.debug.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.yan.maimaidx.debug.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmws3": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.yan.maimaidx.debug.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmws4xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.yan.maimaidx.debug.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmws441": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.yan.maimaidx.debug.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmws4": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.yan.maimaidx.debug.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmws5": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.yan.maimaidx.debug.1.0.0.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
